@@ -164,7 +164,6 @@ function App() {
             </div>
           </div>
           <button
-            className="span-two"
             onClick={() => dispatch({ type: ACTIONS.CLEAR })}
           >
             AC
